@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73178806-fc9a-439b-8fc1-6c48c269b01d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1-master/src/loose/oose/fis/here is a new file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1-master/src/loose/oose/fis/here is a new file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584543971771" />
+    <state x="481" y="128" key="MultipleFileMergeDialog" timestamp="1584545213337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="128" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584545213337" />
     <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1584543984131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
