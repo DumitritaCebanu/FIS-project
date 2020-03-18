@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LabFIS" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -34,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584543573835</updated>
-      <workItem from="1584543578424" duration="735000" />
+      <workItem from="1584543578424" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="now, it is commited from intelij">
       <created>1584543973644</created>
